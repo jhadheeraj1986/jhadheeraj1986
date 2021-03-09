@@ -8,11 +8,11 @@
 <img align="right" src="https://github.com/jhadheeraj1986/jhadheeraj1986/blob/master/Keyboard.gif" width="50%"/>
 
 - 🔭 I’m currently working on **C++** and **Python**
-- 🌱 I’m currently learning **Cloud technologies(AWS)**
-- 😄 I am running two communities: ***CppIndia - User Group*** and ***Python Community discussion***
-- 👯 I’m looking to collaborate on any new project in C++ and Python
+- 🌱 I’m currently learning **Cloud technologies(AWS)** and **Cyber Security**
+- 😄 I am a founder and organizer of C++ community in India: [***CppIndia***](www.cppindia.co.in)
+- 👯 I’m looking to collaborate on any new project in C++ and Python.
 - 💬 Ask me about anything, If I know, I will difinitly answer you for a Beer🍻.
-- 📫 How to reach me: **letslearntogether@jhadheeraj.com**
+- 📫 How to reach me: **jha.dheeraj1986@gmail.com**
 - 💷 Website: **www.jhadheeraj.com**
 - ⚡ Fun fact: I love *Gardening* and *creating stuff using waste items*.
 
