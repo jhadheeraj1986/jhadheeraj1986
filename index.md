@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+### Hi there 👋
 
-You can use the [editor on GitHub](https://github.com/jhadheeraj1986/jhadheeraj1986/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## I am Dheeraj Jha.
+#### I am a Software Engineer who loves writing technical blogs and help others in learn and grow.
+<!--
+**jhadheeraj1986/jhadheeraj1986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+<img align="right" src="https://github.com/jhadheeraj1986/jhadheeraj1986/blob/master/Keyboard.gif" width="50%"/>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 🔭 I’m currently working on **C++** and **Python**
+- 🌱 I’m currently learning **Cloud technologies(AWS)** and **Cyber Security**
+- 😄 I am a founder and organizer of C++ community in India: [***CppIndia***](www.cppindia.co.in)
+- 👯 I’m looking to collaborate on any new project in C++ and Python.
+- 💬 Ask me about anything, If I know, I will difinitly answer you for a Beer🍻.
+- 📫 How to reach me: **jha.dheeraj1986@gmail.com**
+- 💷 Website: **www.jhadheeraj.com**
+- ⚡ Fun fact: I love *Gardening* and *creating stuff using waste items*.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##
 
-```markdown
-Syntax highlighted code block
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=jhadheeraj1986&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424" width="100%"" width="100%"/>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+##
+### Connect with me:
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jhadheeraj1986/jhadheeraj1986/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/dheerajjha_03) [<img src="https://img.icons8.com/color/48/000000/stackoverflow.png" width="3.5%"/>](https://stackoverflow.com/users/6207792/dj1986?tab=profile) [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/https://www.linkedin.com/in/jhadheeraj//) 
