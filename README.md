@@ -12,7 +12,7 @@
 - 😄 I am a founder and organizer of C++ community in India: [***CppIndia***](www.cppindia.co.in)
 - 👯 I’m looking to collaborate on any new project in C++ and Python.
 - 💬 Ask me about anything, If I know, I will difinitly answer you for a Beer🍻.
-- 📫 How to reach me: **jha.dheeraj1986@gmail.com**
+- 📫 How to reach me: **contact@jhadheeraj.com**
 - 💷 Website: **www.jhadheeraj.com**
 - ⚡ Fun fact: I love *Gardening* and *creating stuff using waste items*.
 
@@ -25,6 +25,6 @@
 
 
 ##
-### Connect with me:
+### connect with me:
 
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/dheerajjha_03) [<img src="https://img.icons8.com/color/48/000000/stackoverflow.png" width="3.5%"/>](https://stackoverflow.com/users/6207792/dj1986?tab=profile) [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/https://www.linkedin.com/in/jhadheeraj//) 
